@@ -52,7 +52,12 @@ The following modules were taught in the course:
   
   Module 12 Conversational AI
 
+  The links to the projects are listed below:
+
 https://github.com/Mike023456/HCCS-ITAI--2373/tree/main/Olaleye-Bakare-AI%20Portfolio/Natural%20Language%20Programming%20-%20ITAI-/Project%201%20-%20Text%20Processing%20and%20Cleaning/Project%20files%20with%20Code
+
+
+
 
   
   
