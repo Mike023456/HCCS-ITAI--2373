@@ -56,6 +56,10 @@ The following modules were taught in the course:
 
 https://github.com/Mike023456/HCCS-ITAI--2373/tree/main/Olaleye-Bakare-AI%20Portfolio/Natural%20Language%20Programming%20-%20ITAI-/Project%201%20-%20Text%20Processing%20and%20Cleaning/Project%20files%20with%20Code
 
+https://github.com/Mike023456/HCCS-ITAI--2373/tree/main/Olaleye-Bakare-AI%20Portfolio/Natural%20Language%20Programming%20-%20ITAI-/Project%202%20-%20-Text%20Representation/Project%20files%20with%20Code
+
+
+
 
 
 
