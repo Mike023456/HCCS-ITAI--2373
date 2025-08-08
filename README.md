@@ -64,6 +64,14 @@ This project requires the students to carry out NLP pre-processing with aim pf c
 https://github.com/Mike023456/HCCS-ITAI--2373/tree/main/Olaleye-Bakare-AI%20Portfolio/Natural%20Language%20Programming%20-%20ITAI-/Project%201%20-%20Text%20Processing%20and%20Cleaning/Project%20files%20with%20Code
 
 Project 2 - Text Representation
+
+In this lab, the students learn how to convert words to numbers showing transformation of human language into mathematical representations that machines can understand, process and learn from. The lab comprises the following paths from basic word counting to sophisticated embedding techniques used in modern AI systems.
+Part 1-2: Foundations & Sparse Representations (BOW, Preprocessing)
+Part 3: TF-IDF & N-grams (Weighted Representations)
+Part 4: Dense Representations (Word Embeddings)
+Part 5: Integration & Real-World Applications 
+At the completion of this lab, the students are able to convert text to numbers for machine learning, implement Bag of Words and Term frequency-inverse document frequency (TF-IDF) representations from scratch, applying N-gram analysis to capture word sequences, embedding words and their semantic properties, carrying out comprehensive comparison of different text representation methods and building simple text classication system. Few of the Python libraries that are used during the lab include numpy, pandas, seaborn, scikitlearn, math, matplotlib.
+
 https://github.com/Mike023456/HCCS-ITAI--2373/tree/main/Olaleye-Bakare-AI%20Portfolio/Natural%20Language%20Programming%20-%20ITAI-/Project%202%20-%20-Text%20Representation/Project%20files%20with%20Code
 
 Project 3 - Parts of-Speech Tagging
