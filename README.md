@@ -1,9 +1,15 @@
 This project was carried out by Olaleye Bakare
+
 Course:       ITAI 2373 - Natural Language Processing
+
 Instructor:   Prof. Patricia McManus
+
 School:       Houston Community College, Houston
+
 Program :     AS in Articial Intelligence
+
 Contact: Mike.bakare21@gmail.com
+
 This course is an intensive hands-on class for Artificial Intelligence students. 
 The course highlights understanding Natural Language Processing (NLP) using different tools such as Python,Gtihub, Github Desktop, Jupyter, Google Colab with applicable concepts that are available in the IT industry for NLP professionals. 
 The course trains students to becoming expertise with understanding of the applicable concepts in the Natural language processing field.
@@ -25,5 +31,7 @@ The following modules were taught in the course:
   Module 10 Large Language Models
   Module 11 Mchine Translation
   Module 12 Conversational AI
+
+
   
   
