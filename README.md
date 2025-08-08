@@ -54,12 +54,22 @@ The following modules were taught in the course:
 
   The links to the projects are listed below:
 
+Project 1 - Text Processing and Cleaning
+
+The link to this project is listed below. 
+
+This project requires the students to carry out NLP pre-processing with aim pf cleaning, transforming and preparing the provided raw text data to a system that will be apprpriate for machine learning such as classiication model. At the end of the lab, students are aware of the requirements for standardization, noise reduction, complexity reduction and performance enhancement for any raw text data using natural language toolkit(NLTK) library and SpaCy(Industrial-strength NLP with pre-trained models). Five diferent raw data which include Simple text, Academic text (with citations, URLs), Social media text (with emojis, hashtags), News text (formal writing) and Product reviews (informal, ratings)are used to highlights diferences in applications and outputs using NLTK and Spacy. The concepts of tokenization, stop words removal, lemmatization, stemming, text cleaning and normalization are applied on the raw data sets.
+
+
 https://github.com/Mike023456/HCCS-ITAI--2373/tree/main/Olaleye-Bakare-AI%20Portfolio/Natural%20Language%20Programming%20-%20ITAI-/Project%201%20-%20Text%20Processing%20and%20Cleaning/Project%20files%20with%20Code
 
+Project 2 - Text Representation
 https://github.com/Mike023456/HCCS-ITAI--2373/tree/main/Olaleye-Bakare-AI%20Portfolio/Natural%20Language%20Programming%20-%20ITAI-/Project%202%20-%20-Text%20Representation/Project%20files%20with%20Code
 
+Project 3 - Parts of-Speech Tagging
 https://github.com/Mike023456/HCCS-ITAI--2373/tree/main/Olaleye-Bakare-AI%20Portfolio/Natural%20Language%20Programming%20-%20ITAI-/Project%203%20-%20-%20Part-of-Speech%20Tagging%20in%20Real%20World/Project%20files%20with%20Code
 
+Project 4 - Sentiment and Emotion Analysis
 https://github.com/Mike023456/HCCS-ITAI--2373/tree/main/Olaleye-Bakare-AI%20Portfolio/Natural%20Language%20Programming%20-%20ITAI-/Project%204%20%20-%20-%20Sentiment%20and%20Emotion%20Analysis/Project%20files%20with%20Code
 
 
