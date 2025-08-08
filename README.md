@@ -76,9 +76,22 @@ https://github.com/Mike023456/HCCS-ITAI--2373/tree/main/Olaleye-Bakare-AI%20Port
 Project 3 - Parts of-Speech Tagging
 
 In this lab, the students learn the part-of-speech (POS) tagging and its application in Natural language processing. The students explore how computers understand the grammatical roles of words in sentences, from simple rule-based approaches to modern AI systems. Key learnings from this lab project include understanding POS tagging fundamentals and its benefits in daily applications using NLTK and Spacy for text analysis, explore different tag sets and understand their trade-offs, handling real-world messy text like speech transcripts and social media and applying POS tagging to solve actual business problems.
+
 https://github.com/Mike023456/HCCS-ITAI--2373/tree/main/Olaleye-Bakare-AI%20Portfolio/Natural%20Language%20Programming%20-%20ITAI-/Project%203%20-%20-%20Part-of-Speech%20Tagging%20in%20Real%20World/Project%20files%20with%20Code
 
 Project 4 - Sentiment and Emotion Analysis
+
+This lab provides the students the singular opportunity to apply every concepts learn from this course in carrying out this project. The project allows students to build emotion detection system for both text and speech
+The lab gives stuents practical experience with real-world emotion analysis.
+The following learnings are observed while performing this project:
+1. Text Sentiment Analyzer using VADER and TextBlob
+2. Machine Learning Classier with scikit-learn
+3. Speech Emotion Detector using audio features
+4. Multimodal System combining text and speech analysis
+The raw data used during this lab include customer reviews from multiple domains, social media posts with emotion labels, audio recordings with emotional speech and Multimodal datasets combining text and audio.
+At the end of this project, the students are able to Understand the differences between rule-based and ML approaches to sentiment analysis, build and evaluate multiple sentiment analysis systems extract and analyze emotional features from speech, create a multimodal emotion detection system and critically evaluate bias and fairness in emotion detection systems
+
+
 https://github.com/Mike023456/HCCS-ITAI--2373/tree/main/Olaleye-Bakare-AI%20Portfolio/Natural%20Language%20Programming%20-%20ITAI-/Project%204%20%20-%20-%20Sentiment%20and%20Emotion%20Analysis/Project%20files%20with%20Code
 
 
