@@ -60,6 +60,8 @@ https://github.com/Mike023456/HCCS-ITAI--2373/tree/main/Olaleye-Bakare-AI%20Port
 
 https://github.com/Mike023456/HCCS-ITAI--2373/tree/main/Olaleye-Bakare-AI%20Portfolio/Natural%20Language%20Programming%20-%20ITAI-/Project%203%20-%20-%20Part-of-Speech%20Tagging%20in%20Real%20World/Project%20files%20with%20Code
 
+https://github.com/Mike023456/HCCS-ITAI--2373/tree/main/Olaleye-Bakare-AI%20Portfolio/Natural%20Language%20Programming%20-%20ITAI-/Project%204%20%20-%20-%20Sentiment%20and%20Emotion%20Analysis/Project%20files%20with%20Code
+
 
 
 
